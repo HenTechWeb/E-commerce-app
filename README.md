@@ -1,6 +1,9 @@
 # Mini E-commerce (PHP + MySQL)
 
 ## Requirements
+  mysql                           8.0-oracle
+  phpmyadmin                      5.2.1
+  php:8.2-apache-bullseye
 - PHP 7.4+ (with PDO MySQL)
 - MySQL / MariaDB
 - phpMyAdmin (optional) to manage/inspect the database
